@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tara.QuickCms", "Tara.QuickCms\Tara.QuickCms.csproj", "{9134B5E6-D199-4535-A010-12B423395713}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entities", "Entities\Entities.csproj", "{1F4E4D18-3E56-411D-822B-27E09AF9D48B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DAL", "DAL\DAL.csproj", "{DDF065D6-98A3-43F6-83A3-7C957E7C0350}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9134B5E6-D199-4535-A010-12B423395713}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9134B5E6-D199-4535-A010-12B423395713}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9134B5E6-D199-4535-A010-12B423395713}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9134B5E6-D199-4535-A010-12B423395713}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F4E4D18-3E56-411D-822B-27E09AF9D48B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F4E4D18-3E56-411D-822B-27E09AF9D48B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F4E4D18-3E56-411D-822B-27E09AF9D48B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F4E4D18-3E56-411D-822B-27E09AF9D48B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDF065D6-98A3-43F6-83A3-7C957E7C0350}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDF065D6-98A3-43F6-83A3-7C957E7C0350}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDF065D6-98A3-43F6-83A3-7C957E7C0350}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDF065D6-98A3-43F6-83A3-7C957E7C0350}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D40943B2-69AB-4EAE-97B7-FD29833F42A4}
+	EndGlobalSection
+EndGlobal
